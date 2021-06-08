@@ -1,5 +1,4 @@
-### Hi there 👋
-Harsh Panchal
+### Hi there 👋 Harsh Panchal here
 <!--
 **harshpanchal874/harshpanchal874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
